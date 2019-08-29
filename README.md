@@ -1,7 +1,7 @@
 # 🔍 fuzzy-swift
 
 [![Swift 5](https://img.shields.io/badge/swift-5-ED523F.svg?style=flat)](https://swift.org/download/)
-[![CircleCI](https://circleci.com/gh/khoi/fuzzy-swift.svg?style=svg)](https://circleci.com/gh/khoi/fuzzy-swift)
+[![Action](https://github.com/khoi/fuzzy-swift/workflows/test/badge.svg)](https://github.com/khoi/fuzzy-swift/actions)
 [![@khoiracle](https://img.shields.io/badge/contact-@khoiracle-4bbee3.svg?style=flat)](https://twitter.com/khoiracle)
 
 Simple and fast "fuzzy" string matching. Can be used to implement Sublime Text-like search
