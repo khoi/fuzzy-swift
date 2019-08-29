@@ -9,7 +9,7 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: swift test
-      run: swift test
+    - name: Build
+      run: swift build -v
+    - name: Test
+      run: swift test -v
